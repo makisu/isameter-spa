@@ -79,7 +79,7 @@ function AvionSchoolPage() {
 	};
 	return (
 	  <div>
-		  <h3 className={"isa-title"}>
+		  <h3>
 		  Income Share Agreement
 		  </h3>
 		<UnorderedList className={"padding-title"}>

@@ -16,10 +16,10 @@ import {
 } from '@carbon/icons-react';
 
 const TutorialHeader = () => (
-	<Header aria-label="Payment Calculator">
+	<Header aria-label="ISA Meter">
 	    <SkipToContent />
-	    <HeaderName element={Link} to="/" prefix="ISA">
-	      Payment Calculator
+	    <HeaderName element={Link} to="/" prefix="Makisu">
+	      ISA Meter
 	    </HeaderName>
 	<HeaderNavigation aria-label="Avion School">
 	<HeaderMenuItem element={Link} to="/avion-school">Avion School</HeaderMenuItem>
