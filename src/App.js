@@ -5,6 +5,7 @@ import { Route, Switch } from 'react-router-dom';
 import 'carbon-components/scss/globals/scss/styles.scss'
 import { Button, Content } from 'carbon-components-react';
 import TutorialHeader from './TutorialHeader';
+import Footer from './Footer';
 import LandingPage from './content/LandingPage';
 import AvionSchoolPage from './content/AvionSchoolPage';
 
@@ -21,8 +22,7 @@ function App() {
 	  <Route path="/avion-school" component={AvionSchoolPage} />
 		  </Switch>
 	  </Content>
-	  <br/>
-	  <br/>
+	  <Footer/>
     </div>
   );
 }
