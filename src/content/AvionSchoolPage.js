@@ -88,7 +88,7 @@ function AvionSchoolPage() {
 			  annual incomes you may have.
 		</ListItem>
 		<ListItem>
-			   For more information on the Avion School ISA, please see
+			   For more information, please see
 			  our FAQs.
 		</ListItem>
 		</UnorderedList>
@@ -166,7 +166,7 @@ function AvionSchoolPage() {
 		</section>
 		<section>
 	  <h3 className={"isa-notes-title"}>
-	  Avion School ISA Notes
+	  ISA Notes
 	  </h3>
 		<UnorderedList>
 		<ListItem>
