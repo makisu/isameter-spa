@@ -21,9 +21,6 @@ const TutorialHeader = () => (
 	    <HeaderName element={Link} to="/" prefix="">
 	      ISA Meter
 	    </HeaderName>
-	//<HeaderNavigation aria-label="Avion School">
-	//<HeaderMenuItem element={Link} to="/avion-school">Avion School</HeaderMenuItem>
-	//</HeaderNavigation>
   </Header>
 );
 
